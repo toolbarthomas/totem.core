@@ -6,4 +6,4 @@ $wrapper-styles: (
         'padding-right': box-model('padding', 'base'),
         'max-width': viewport('widescreen', 'min-width')
     )
-);
+) !default;

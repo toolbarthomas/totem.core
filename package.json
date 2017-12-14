@@ -1,6 +1,6 @@
 {
     "name": "totem.module.wrapper",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "description": "Create horizontal layouts like we always did in the nineties",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
