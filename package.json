@@ -1,8 +1,8 @@
 {
     "name": "totem.core",
     "homepage": "https://github.com/toolbarthomas/totem.core",
-    "version": "0.7.1",
-    "description": "Modular prototype framework for the web",
+    "version": "0.7.2",
+    "description": "Core functionality for Totem",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
