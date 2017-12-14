@@ -1,6 +1,7 @@
 $wrapper-styles: (
     '.wrapper': (
-        'margin': box-model('margin', 'base'),
+        'margin-top': box-model('margin', 'base'),
+        'margin-bottom': box-model('margin', 'base'),
         'padding': box-model('padding', 'base'),
         'max-width': viewport('widescreen', 'min-width')
     )
