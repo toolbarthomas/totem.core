@@ -1,0 +1,25 @@
+{
+    "name": "totem.core",
+    "homepage": "https://github.com/toolbarthomas/totem.core",
+    "version": "0.7.2",
+    "description": "Core functionality for Totem",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prod": "gulp build",
+        "dev": "gulp serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://toolbarthomas@github.com/toolbarthomas/totem.git"
+    },
+    "keywords": [
+        "totem",
+        "core"
+    ],
+    "author": "Thomas van der Velde <contact@toolbarthomas.net>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/toolbarthomas/totem.core/issues"
+    }
+}
