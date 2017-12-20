@@ -1,7 +1,7 @@
 {
     "name": "totem.core",
     "homepage": "https://github.com/toolbarthomas/totem.core",
-    "version": "0.7.2",
+    "version": "0.7.3",
     "description": "Core functionality for Totem",
     "main": "index.js",
     "scripts": {
