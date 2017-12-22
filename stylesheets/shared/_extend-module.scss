@@ -3,10 +3,7 @@
     $styles: map-remove($list, 'default');
     $selectors: ();
 
-    @if length($styles) == 0 {
-        @warn warning('Default key has been removed from $list and has no values left.');
-    } @else {
-
+    @if length($styles) > 0 {
         @each $key, $style in $styles {
 
             @if map-get($style, 'selector') {
